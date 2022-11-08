@@ -1,4 +1,4 @@
-module github.com/Aksh-Bansal-dev/goanime-download
+module github.com/Aksh-Bansal-dev/go-batch-anime
 
 go 1.18
 
